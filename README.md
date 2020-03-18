@@ -1,0 +1,2 @@
+# wsk
+WSK tehtävien kansio
